@@ -1,0 +1,96 @@
+body{
+	background-image: url(img/bk2.jpg);
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+	    margin-left: 700px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: -21px;
+    color: #2d2b26;
+}
+
+.data {
+  width: 50%;
+
+float: right;
+height: 400px;
+/*background-color: bisque;*/
+    margin-top: 50px;
+}
+
+.data form input {
+  width: 90%;
+      padding-left: 13px;
+      height: 36px;
+      margin-left: 14px;
+      border-radius: 2px;
+      border: 1px solid #39427d87;
+      margin-bottom: 6px;
+      font-size: 14px;
+      background-color: #ffffff4d;
+}
+
+.data p{
+	margin-left: 20px;
+	color: #44402f;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.data input{
+	margin-left: 20px;
+
+}
+
+.data span{
+	font-family: sans-serif;
+	color: #3a382c;
+}
+.data textarea{
+	height: 200px;
+  width:88%;
+  margin-left: 14px;
+  border-radius: 3px;
+  border: 1px solid #39427d87;
+  padding: 13px;
+  font-size: 14px;
+  margin-top: 10px;
+  background-color: #ffffff4d;
+}
+
+.data button{
+  background-color: #2d2b26;
+  width:92%;
+      color: #fff;
+      border: 0;
+      padding: 8px 22px;
+      font-size: 20px;
+      border-radius: 4px;
+      margin-left: 14px;
+}
+
+/*icons*/
+.icons{
+	float: right;
+	position: absolute;
+	    top: 90%;
+    left: 63%;
+
+}
+.icons ul{
+	list-style: none;
+}
+
+.icons ul li{
+	display: inline-block;
+	padding: 20px 20px;
+}
+.icons ul li .fa{
+	color: #2d2b26;
+}
